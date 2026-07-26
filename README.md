@@ -1,6 +1,6 @@
 
 Click here to open
-https://patanhihaikonhu.github.io/-Virtual-GM-Counter-Simulation/Gm%20counter.html
+https://deependra-yad.github.io/GM-COUNTER-ONLINE-SIMULATOR/Gm%20counter.html
 
 Virtual Nuclear Physics Lab ☢️
 
